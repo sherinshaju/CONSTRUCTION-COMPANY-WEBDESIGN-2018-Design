@@ -1,0 +1,201 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar-inverse {
+background-color:#fff;
+border-color: #FFFFFF;
+color:#FFF;
+}
+	   
+.navbar {
+position: relative;
+min-height: 15px;
+margin-bottom:8px;
+border: 1px solid transparent;
+margin-bottom:0px;
+}
+	   
+
+
+.banner{height:585px;
+padding:0px;
+overflow:hidden;
+}
+ 
+ 
+.service {height:auto;
+           
+		   padding-top:50px;
+		   font-size:20px;
+		   margin-bottom:30px;
+		   }
+ 
+#knight{color:#0062a1;} 
+ 
+#knightman{font-size:28px;} 
+ 
+ 
+.serviceabout{height:400px;
+               } 
+ 
+.serviceimg{height:150px;
+            
+			padding-top:50px;} 
+ 
+.servicedetils{height:350px;
+            
+			  
+			  font-size:18px} 
+ 
+ 
+.service1{height:auto;
+          
+		   font-size:20px;
+		   margin-bottom:20px;
+		   } 
+ 
+.gallery{height:300px;
+margin-bottom:4px;
+padding:4px;
+
+        } 
+ 
+.eeee{height:400px;
+       background:url(../image/bulding-constraction_05.jpg) no-repeat;
+	   background-size:100% 100%;
+	   margin-top:50px;
+	   margin-bottom:60px;
+	   font-size:36px;
+	   color:#FFF;
+	   padding-top:100px}
+	   
+	    
+.testrmony{height:550px;
+       background:url(../image/front-twitter.jpg) no-repeat;
+	   background-size:100% 100%;
+	   margin-top:50px;
+	   
+}
+ 
+ .testmorinal{text-align:center;
+            padding-top:150px;}
+ 
+#coffeshope{color:#FFF;
+font-size:18px;
+padding-top:30px;} 
+ 
+ 
+ .gallery1{height:430px;
+margin-bottom:4px;
+padding:4px;
+
+        }
+.about{height:80px;
+      background-color:#1f1f1f;
+	  margin-top:20px;
+	  color:#FFF;
+	  padding-top:25px;}
+
+.about1{height:480px;
+      background-color:#1f1f1f;
+	  
+	  color:#FFF;
+	  font-size:19px;
+	  }
+
+       
+.about2{height:80px;
+     
+	  margin-top:20px;
+	 
+	  padding-top:25px;}
+
+.map{height:250px;
+font-size:18px;
+margin-top:20px;
+       }
+
+.about5{height:400px;
+      background-color:#1f1f1f;
+	  
+	  color:#FFF;
+	  font-size:19px;
+	  overflow:hidden;
+	  padding:0px;
+	  }
+
+.about8{height:auto;
+      background-color:#1f1f1f;
+	  
+	  color:#FFF;
+	  padding-top:20px;
+	  margin-bottem:10px;
+	 
+	  }
+
+
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+	
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 30px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+
+.sidenav .openbtn {
+    
+    margin-left: 50px;
+}
+
+
+
+
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+.nee{margin-left:30px;}
+
+
+
+. h3 {
+    margin-top: 28px;
+    margin-bottom: 10px;
+}
+
+
+
